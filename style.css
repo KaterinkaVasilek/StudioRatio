@@ -680,9 +680,11 @@ hr {
 	.container__intro {
 		max-width: 750px;
 		margin-bottom: 100px;
+		padding-left: 20px;
 	}
 	.container {
 		max-width: 750px;
+		padding-left: 20px;
 	}
 	.header {
 		margin-bottom: 50px;
@@ -755,9 +757,11 @@ hr {
 		max-width: 524px;
 		max-height: 540px;
 		margin-bottom: 50px;
+		padding-left: 20px;
 	}
 	.container {
 		max-width: 524px;
+		padding-left: 20px;
 	}
 	.intro {
 		min-height: 860px;
